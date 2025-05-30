@@ -15,12 +15,6 @@ A simple yet effective **Typing Speed Test** desktop application built using **P
 
 ---
 
-## 📸 Preview
-
-> (Optional) Add a screenshot of the app interface here
-
----
-
 ## 📁 File Structure
 
 typing_speed_test/
