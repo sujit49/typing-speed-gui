@@ -6,11 +6,11 @@ A simple yet effective **Typing Speed Test** desktop application built using **P
 
 ## 🧩 Features
 
-- Real-time timer starts when you begin typing  
-- Displays typing speed in words per minute (WPM)  
-- Calculates accuracy (currently assumes 100% for any input)  
-- Hit `Enter` to finish the test  
-- Clean UI with title, instructions, and results  
+- Real-time timer starts when you begin typing
+- Displays typing speed in words per minute (WPM)
+- Calculates accuracy (currently assumes 100% for any input)
+- Hit `Enter` to finish the test
+- Clean UI with title, instructions, and results
 - `Reset` button to try again
 
 ---
@@ -24,8 +24,9 @@ A simple yet effective **Typing Speed Test** desktop application built using **P
 ## 📁 File Structure
 
 typing_speed_test/
-├── typing_speed_test.py # Main Python file (the script you run)
-└── README.md # Project documentation
+├── typing_speed_test.py  # Main Python file (the script you run)
+└── README.md             # Project documentation
+
 
 ---
 
@@ -36,7 +37,7 @@ typing_speed_test/
 
 ```bash
 python typing_speed_test.py
-## 🎮 Instructions
+🎮 Instructions
 Type anything in the text field.
 
 The timer starts automatically as soon as you start typing.
@@ -47,27 +48,20 @@ Your typing speed (in WPM) and accuracy will be displayed.
 
 Click the Reset button to restart the test.
 
-## 📐 Accuracy Note
+📐 Accuracy Note
 Currently, the app assumes 100% accuracy for demonstration purposes.
 To measure real accuracy, you could compare typed text against a fixed reference paragraph.
 
-## 🚀 Ideas for Improvement
+🚀 Ideas for Improvement
 Add a reference text to match typing input for real accuracy measurement
-
 Add a countdown before the test begins
-
 Store previous scores for progress tracking
-
 Add a leaderboard or history panel
-
 Include different difficulty levels with longer/shorter text passages
-
-## 📜 License
+📜 License
 This project is for educational purposes. Feel free to modify and improve it!
 
 Enjoy testing your typing speed! 🚀⌨️📊
 
 
----
-
-You can now save this as `README.md` in the same folder as your script. Let me know if you want to add 
+This is the content formatted as a Markdown file. Let me know if you'd like any modific
