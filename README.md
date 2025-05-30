@@ -37,7 +37,9 @@ typing_speed_test/
 
 ```bash
 python typing_speed_test.py
-🎮 Instructions
+
+
+## 🎮 Instructions
 Type anything in the text field.
 
 The timer starts automatically as soon as you start typing.
@@ -48,17 +50,22 @@ Your typing speed (in WPM) and accuracy will be displayed.
 
 Click the Reset button to restart the test.
 
-📐 Accuracy Note
+
+
+## 📐 Accuracy Note
 Currently, the app assumes 100% accuracy for demonstration purposes.
 To measure real accuracy, you could compare typed text against a fixed reference paragraph.
 
-🚀 Ideas for Improvement
+
+## 🚀 Ideas for Improvement
 Add a reference text to match typing input for real accuracy measurement
 Add a countdown before the test begins
 Store previous scores for progress tracking
 Add a leaderboard or history panel
 Include different difficulty levels with longer/shorter text passages
-📜 License
+
+
+## 📜 License
 This project is for educational purposes. Feel free to modify and improve it!
 
 Enjoy testing your typing speed! 🚀⌨️📊
